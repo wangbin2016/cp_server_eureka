@@ -5,6 +5,7 @@ public class CpEurekaApplicationTests {
 
 	@Test
 	public void contextLoads() {
+		System.out.println("dd");
 	}
 
 }
